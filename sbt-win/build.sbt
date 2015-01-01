@@ -7,11 +7,11 @@ assemblySettings
 
 organization := "com.nekopiano.scala"
 
-name := "sbt-skeleton"
+name := "sbt-win"
 
 version := "1.0"
 
-scalaVersion := "2.11.1"
+scalaVersion := "2.11.4"
 
 libraryDependencies ++= List(
   "org.scala-lang" % "scala-reflect" % "2.10.4",
